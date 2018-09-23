@@ -1,0 +1,36 @@
+html{background-color: black;}
+
+
+
+
+
+p{ color:  orange;  text-align: center;
+    font-size: 40px;
+}
+
+h1{ color: red; text-align: center;
+font-size: 70px;}
+h2{ color: purple;
+    height:70px;
+    text-decoration: black;
+padding-right: 50px;
+padding-left: 10px;
+}
+img{ 
+height: 500px;
+width:500px;
+display: block;
+margin:0 auto;
+margin: 5px;
+border: 10px;
+padding: 19.5px;
+}
+
+li{ font-size: 50px;
+border-block-end-style: solid;
+color:green;
+}
+h6{ font: 100px;
+    background: lavender;
+    color: red;
+}

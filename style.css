@@ -1,0 +1,63 @@
+
+
+ h1 {margin-left: 300px;
+     color:green;
+     font-size: 75px;
+    
+    }
+
+
+
+
+.ten {
+    height:500px;
+     margin:250px;
+}
+
+.eleven {
+    height:500px;
+    margin:200px;
+}
+
+
+#num1 {
+    font-size: 60px;
+    margin-right: 50px;
+
+    color:teal;
+}
+#num2 {
+    font-size: 60px; 
+    color:blueviolet;
+}
+
+var {
+    margin-left: 150px;
+    margin-top:100px;
+}
+
+li {
+    font-size: 36px; 
+}
+footer {
+    width:1800px;
+    background-color: black;
+    color:white;
+    display:block;
+    text-align:center
+}
+body {
+    background-color:red ;
+}
+
+.body {
+    
+    background-color: teal
+
+}
+h3 {
+    color:yellowgreen;
+}
+
+
+
